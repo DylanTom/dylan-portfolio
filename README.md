@@ -39,9 +39,7 @@ Description:
 1. 
 2. 
 
-<p style="text-align:center;"><img src="website.jpg" alt="Website" width ="200"></p>
-<p style="text-align:center;"><img src="website2.jpg" alt="Website" width ="200"></p>
-
+<p style="text-align:center;"><img src="website.png" alt="Website" width ="200"><img src="website2.png" alt="Website" width ="200"></p>
 
 Reflection:
 
