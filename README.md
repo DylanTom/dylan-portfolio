@@ -1,32 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Dylan's Website 
+Hi! My name's Dylan and I am currently a freshman at Cornell University, Class of 2025. I am from Queens, NY and I love eating and traveling. I went to Bronx Science from 2017-2021. Read below to find more about me! If you have any questions, shoot me an email or connect with me. 
 
-You can use the [editor on GitHub](https://github.com/DylanTom/dylan-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What do I enjoy doing? As of 2021, I want to study computational biology and computer science. One skill I hope to learn is some data visualization. Right now, I only know some graphs and such but would like to have a formal introduction to better communicate my data analysis. So, I might have some data science, machine learning, and other scripts sprinkled into this website. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 1 - Used Cars Explorative Data and Predictive Analysis
 
-### Markdown
+## Project 2 - 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project 3 - 
 
-```markdown
-Syntax highlighted code block
+## Project 4 - 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
