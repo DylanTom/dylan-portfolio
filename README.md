@@ -5,7 +5,7 @@ What do I enjoy doing? As of 2021, I want to study computational biology and com
 
 <img src="pfp.jpg" alt="Me" width="200" />
 
-## Project 1 - Used Cars Explorative Data and Predictive Analysis
+## ![Project 1 - Used Cars Explorative Data and Predictive Analysis](https://github.com/DylanTom/info-final-project)
 
 ## Project 2 - 
 
