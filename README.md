@@ -3,7 +3,7 @@ Hi! My name's Dylan and I am currently a freshman at Cornell University, Class o
 
 What do I enjoy doing? As of 2021, I want to study computational biology and computer science. One skill I hope to learn is some data visualization. Right now, I only know some graphs and such but would like to have a formal introduction to better communicate my data analysis. So, I might have some data science, machine learning, and other scripts sprinkled into this website. 
 
-<img src="pfp.jpg" alt="Me" width="200"/>
+<img src="pfp.jpg" alt="Me" width="200" />
 
 ## Project 1 - Used Cars Explorative Data and Predictive Analysis
 
@@ -21,4 +21,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to contact me? Email me at **dylantom222@gmail.com** or on [LinkedIn](https://linkedin.com/in/dylan-tom)
