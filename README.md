@@ -57,11 +57,10 @@ Description:
 3. Learned to filter and clean large datasets 
 4. Applied bioinformatic analyses to develop visualizations
 5. Drafted a technical document including literature review and interpretation of results
-6. Utilized Jupyter Notebook as the primary form of documentation
 
 <p style="text-align:center;"><img src="research.png" alt="Website" width ="200"><img src="research2.png" alt="Website" width ="200"></p>
 <p style="text-align:center;"><img src="research3.png" alt="Website" width ="200"></p>
-On the upper left pane
+Select Figures: On the upper left pane is a scatter plot with a least squares regression line between the number of methionine amino acids in the protein and the protein length. On the upper right pane is a pie chart with the distribution of the interpretations of the clinical significances. On the bottom pane is the distribution of the methionine amino acids along the coding region.  
 
 Reflection: There is a lot to reflect about for this project. Importance of code management
 
