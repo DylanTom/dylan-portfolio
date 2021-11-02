@@ -1,5 +1,5 @@
 ## Welcome to Dylan's Website 
-Hi! My name's Dylan and I am currently a freshman at Cornell University, Class of 2025. I am from Queens, NY and I love eating and traveling. I went to Bronx Science from 2017-2021. Read below to find more about me! If you have any questions, shoot me an email or connect with me. 
+Hi! My name's Dylan and I am currently a freshman at Cornell University, Class of 2025. I am from Queens, NY and I love food and traveling. I went to Bronx Science from 2017-2021. Read below to find more about me! If you have any questions, shoot me an email or connect with me. 
 
 What do I enjoy doing? As of 2021, I want to study computational biology and computer science. One skill I hope to learn is some data visualization. Right now, I only know how to make basic graphs but would like to have a formal introduction to better communicate my data analysis. So, I might have some data science, machine learning, and other scripts sprinkled into this website. I do want to try a bit of software development so this will just be a collection of everything! 
 
@@ -36,10 +36,11 @@ Summary: Developed a personal website with a home, contact, and an about me page
 Duration: 2 weeks
 
 Description:
-1. 
-2. 
+1. Learned HTML and CSS to make a barebone website
+2. Developed an understanding for stylistic choices and features
 
 <p style="text-align:center;"><img src="website.png" alt="Website" width ="200"><img src="website2.png" alt="Website" width ="200"></p>
+On the left pane you can see the homepage to my website. On the right pane you can see the about me page. 
 
 Reflection:
 
@@ -58,7 +59,9 @@ Description:
 5. Drafted a technical document including literature review and interpretation of results
 6. Utilized Jupyter Notebook as the primary form of documentation
 
-Results:
+<p style="text-align:center;"><img src="research.png" alt="Website" width ="200"><img src="research2.png" alt="Website" width ="200"></p>
+<p style="text-align:center;"><img src="research3.png" alt="Website" width ="200"></p>
+On the upper left pane
 
 Reflection: There is a lot to reflect about for this project. Importance of code management
 
