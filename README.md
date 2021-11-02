@@ -3,7 +3,7 @@ Hi! My name's Dylan and I am currently a freshman at Cornell University, Class o
 
 What do I enjoy doing? As of 2021, I want to study computational biology and computer science. One skill I hope to learn is some data visualization. Right now, I only know some graphs and such but would like to have a formal introduction to better communicate my data analysis. So, I might have some data science, machine learning, and other scripts sprinkled into this website. 
 
-![Me](pfp.jpg)
+<img src="pfp.jpg" alt="Me" width="200"/>
 
 ## Project 1 - Used Cars Explorative Data and Predictive Analysis
 
