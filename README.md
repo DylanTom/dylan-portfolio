@@ -42,7 +42,7 @@ Description:
 <p style="text-align:center;"><img src="website.png" alt="Website" width ="200"><img src="website2.png" alt="Website" width ="200"></p>
 On the left pane you can see the homepage to my website. On the right pane you can see the about me page. 
 
-Reflection:
+Reflection: This was a very quick two week project I had over the summer of 2021. There were not many challenges with this but it was challenging for me to understand CSS flexboxes. I'm not a very good designer so I don't know what colors match and what features should go in certain positions. For example, the gray background does not seem to complement the black text. 
 
 Tags: HTML, CSS, web development
 
@@ -62,7 +62,7 @@ Description:
 <p style="text-align:center;"><img src="research3.png" alt="Website" width ="200"></p>
 Select Figures: On the upper left pane is a scatter plot with a least squares regression line between the number of methionine amino acids in the protein and the protein length. On the upper right pane is a pie chart with the distribution of the interpretations of the clinical significances. On the bottom pane is the distribution of the methionine amino acids along the coding region.  
 
-Reflection: There are a lot of lessons when I completed this research project. The most important one that still sticks with me is to properly store files and have a good organization system. If you happen to take a peek at the repository there doesn't appear to be any order or system to keep the files. From this project I learned to label files with data, scripts, or figures and to have a file management system in place before making files. In addition, I created simple data visualizations using matplotlib.pyplot and created scatter plots, bar charts, and pie charts. Creating multiple functions was hard and I ended up creating a bunch of redundant files which cluttered the project even more. When there is a function I might use but it is a draft, I should keep a document but only have one version up and running at a time. This was a hard research problem in which I felt I did not conclude as much as I wanted to but it was a very good experience. 
+Reflection: There are a lot of lessons learned when I completed this research project. The most important one that still sticks with me is to properly store files and have a good organization system. If you happen to take a peek at the repository there doesn't appear to be any order or system to keep the files. From this project I learned to label files with data, scripts, or figures and to have a file management system in place before making files. In addition, I created simple data visualizations using matplotlib.pyplot and created scatter plots, bar charts, and pie charts. Creating multiple functions was hard and I ended up creating a bunch of redundant files which cluttered the project even more. When there is a function I might use but it is a draft, I should keep a document but only have one version up and running at a time. This was a hard research problem in which I felt I did not conclude as much as I wanted to but it was a very good experience. 
 
 Tags: bioinformatics, Jupyter Notebook, data science, Python
 
@@ -77,7 +77,7 @@ Description:
 3. Resolved logical errors in implementation of strategies through debugging and white box testing
 4. Understood how to convert game rules and strategies into code
 
-Reflection: 
+Reflection: This was my first time seeing and using open source files. It was very difficult to understand the file structure. There's no official documentation similar to built in functions so I spent a lot of time reading through the files and understanding the mechnics in an entirely new syntax. There was only one file that I had to modify and that was the AI agent file. This was the first of many hiccups I encountered in this project. Another was implementing the functions. This was before I had any formal training in computer science so I didn't understand what classes and inheritance actually were, which made this project a lot harder. I also didn't know anything about efficient algorithms so as I look back at my code there were a lot of nested for loops and useless if statements. Now, I realize how important specifications are because they make sure the user and the definer understand what the function does and what the appropriate parameters are. 
 
 Tags: open source, C#, debugging, greedy algorithm
 
