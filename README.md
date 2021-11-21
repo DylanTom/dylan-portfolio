@@ -14,8 +14,18 @@ My goal is to convert this portfolio on Github Pages to a functioning website us
 
 Tags: React, web development
 
-## A7
+## [Alien Invaders - FA21]()
 Due to Cornell's Academic Integrity policy, I am not allowed to disclose the source code but would like to document my process, show a few screenshots, and reflect on this project.
+
+Summary:
+
+Duration: 3 weeks
+
+Description:
+
+Reflection:
+
+Tags: python, game development, object oriented programming, open-ended project
 
 ## [Used Cars Explorative Data and Predictive Analysis - FA21](https://github.com/DylanTom/info-final-project)
 Summary:
