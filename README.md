@@ -17,24 +17,32 @@ Tags: React, web development
 ## [Alien Invaders - FA21]()
 Due to Cornell's Academic Integrity policy, I am not allowed to disclose the source code but would like to document my process, show a few screenshots, and reflect on this project.
 
-Summary:
+Summary: Created an "Alien Invaders" game in Python 
 
 Duration: 3 weeks
 
 Description:
+1. Read class documentation and APIs
+2. Designed helper functions to properly structure code
+3. Using constants to improve readability of code
+4. Programming animation and simple collisions
+5. Open-ended project that is not fully specified
 
 Reflection:
 
 Tags: python, game development, object oriented programming, open-ended project
 
-## [Used Cars Explorative Data and Predictive Analysis - FA21](https://github.com/DylanTom/info-final-project)
-Summary:
+## [Used Cars Analysis - FA21](https://github.com/DylanTom/info-final-project)
+Summary: Performed explorative and predictive dats analysis on a open source, unprocessed dataset. 
 
 Duration: 5 weeks
 
 Description:
+1. Performed data filtering and processing on a large, open dataset
+2. Created visualizations that describe aspects of the dataset
+3. Added a linear regression model and a K-nearest neighbors analysis
 
-Reflection:
+Reflection: Worked as a team
 
 Tags: data science, Python, Jupyter Notebook, machine learning
 
