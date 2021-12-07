@@ -30,7 +30,7 @@ Description:
 
 <p style="text-align:center;"><img src="alien1.png" alt="Invaders" width ="200"><img src="alien2.png" alt="Invaders" width ="200"></p>
 
-Reflection:
+Reflection: This project was a cumulative assignment for my intro CS class at Cornell which involved me implementing classes into a code skeleton. I had to use classes, define functions, write specifications, and understand APIs. Python structures that were utilized included: nested loops, coroutines, animation frames, and collisions. I gained experience in GUI applications and documenting my code. This allowed me to keep track of bugs and errors that arose during the development process. 
 
 Tags: python, game development, object oriented programming, open-ended project
 
