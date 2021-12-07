@@ -17,7 +17,7 @@ Tags: React, web development
 ## [Alien Invaders - FA21]()
 Due to Cornell's Academic Integrity policy, I am not allowed to disclose the source code but would like to document my process, show a few screenshots, and reflect on this project.
 
-Summary: Created an "Alien Invaders" game in Python 
+Summary: Created an "Alien Invaders" game in Python for an introductory computer science course. 
 
 Duration: 3 weeks
 
@@ -28,12 +28,14 @@ Description:
 4. Programming animation and simple collisions
 5. Open-ended project that is not fully specified
 
+<p style="text-align:center;"><img src="alien1.png" alt="Invaders" width ="200"><img src="alien2.png" alt="Invaders" width ="200"></p>
+
 Reflection:
 
 Tags: python, game development, object oriented programming, open-ended project
 
 ## [Used Cars Analysis - FA21](https://github.com/DylanTom/info-final-project)
-Summary: Performed explorative and predictive dats analysis on a open source, unprocessed dataset. 
+Summary: Performed explorative and predictive data analysis on a open source, unprocessed dataset. 
 
 Duration: 5 weeks
 
@@ -42,7 +44,7 @@ Description:
 2. Created visualizations that describe aspects of the dataset
 3. Added a linear regression model and a K-nearest neighbors analysis
 
-Reflection: Worked as a team
+Reflection: This was the first project I worked in a small group of three for my information science class at Cornell University. We had to find an open source dataset which might not have been clean. There was a lot of noise we had to filter and we had to encode several categorical variables in order to perform numerical analysis. I gained experience using Github as a collaboration platform and used Jupyter notebook to document a "storytelling" of the dataset. Using knowledge from class lectures, we implemented different data visualizations and supervised machine learning algorithms. 
 
 Tags: data science, Python, Jupyter Notebook, machine learning
 
