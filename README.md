@@ -14,6 +14,20 @@ My goal is to convert this portfolio on Github Pages to a functioning website us
 
 Tags: React, web development
 
+## [Games](https://github.com/DylanTom/games)
+Summary: Creating a text-based solver for various games.
+
+Duration: 1 week
+
+Description:
+1. Utilized an object oriented approach to solve sudoku
+2. Designed files to allow extendability to future games
+3. Programmed the solver using a standard backtracking/recursive algorithm
+
+Reflection: In this project, I wanted to apply my knowledge from my introductory CS class and create an applied application. This text based sudoku solver uses object oriented programming in order to add more games in the future. I create a class for each game and in `__main__.py`, I use a UX to ask the user which game they want to play. The main functions were relatively simple as the rules are well defined. Rather, the main bugs appeared when I tried to cross check the integers and the input (as they are strings), which is why a designer and implementer should be two different people in order to avoid this error. 
+
+Tags: Python, backtracking, recursion, object oriented programming
+
 ## [Alien Invaders - FA21]()
 Due to Cornell's Academic Integrity policy, I am not allowed to disclose the source code but would like to document my process, show a few screenshots, and reflect on this project.
 
